@@ -1,3 +1,3 @@
-# All-About-BERT
+# All-About-LLM
 
-This repo hold all my NLP experiments with BERT models.
+This repo hold all my NLP experiments with Large Language Models.
