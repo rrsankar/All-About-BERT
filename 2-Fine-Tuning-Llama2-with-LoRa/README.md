@@ -23,7 +23,7 @@ LoRA does a low rank decomposition by representing a weight matrix as two smalle
 The idea is that if we lose the linearly dependent columns from the weight matrix, we can reduce the computation (since there are less weights to tune now) without losing much information.  
 This is done by using a rank hyperparameter ‘r’.  
 The weights in the smaller matrices are updated while Back Propagation depending on our new dataset.  
-In a nutshell, instead of fine-tuning the whole weight matrix, we tune 2 smaller matrices. 
+In a nutshell, instead of fine-tuning the whole weight matrix, we tune 2 smaller matrices.  
 In the end, the fine-tuned weights are added to the original model.
 
 ## Conclusion
