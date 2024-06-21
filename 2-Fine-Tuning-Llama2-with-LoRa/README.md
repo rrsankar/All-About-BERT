@@ -31,5 +31,5 @@ This project achieved its goal of helping me understand the nuances in LLM fine-
 This will serve as a base work for other LLM fine-tuning experiments.  
 
 ## Reference
-[Hugging Face documentation](https://huggingface.co/docs)
-[Article-KDNuggets](https://www.kdnuggets.com/fine-tuning-llamav2-with-qlora-on-google-colab-for-free)
+[Hugging Face documentation](https://huggingface.co/docs)  
+[Article-KDNuggets](https://www.kdnuggets.com/fine-tuning-llamav2-with-qlora-on-google-colab-for-free)  
